@@ -1,40 +1,36 @@
-Cloud & DevOps Engineer | Web3 Infrastructure Specialist | IaC & Automation Enthusiast
+👋 Hi there, I'm Kelvin
 
-I specialize in building secure, scalable, and automated cloud environments using Terraform, AWS, Docker, and GitHub Actions. With a passion for Web3 infrastructure and blockchain-native tooling, I bridge traditional DevOps with the decentralized future.
+🚀 DevOps | Cloud Infrastructure | Web3 Infra Enthusiast
 
-🔧 Technical Skills:
+I'm a motivated DevOps and Cloud Infrastructure engineer with a strong focus on automation, scalability, and blockchain-based infrastructure. I thrive at the intersection of Web2 and Web3, delivering reliable and secure systems using modern infrastructure-as-code tools.
 
-    Cloud & DevOps: AWS (ECS, ECR, EC2, S3, IAM, VPC, ALB, EFS), GitHub Actions, CI/CD, ECR/ECS deployments
+🧠 Skills & Tools
 
-    Infrastructure as Code (IaC): Terraform (Modules, Workspaces, State Management)
+Languages : Python, Bash 
 
-    Containerization & Orchestration: Docker, ECS Fargate
+DevOps & Cloud Tools : Terraform, Ansible, Docker, GitHub Actions, AWS (EC2, ECS, ECR, S3, IAM), Linux
 
-    Configuration Management: Ansible
+Blockchain / Web3Node management:  Appchains, EVM chains, Tanssi, Autonity, Cosmos SDK
 
-    Monitoring & Logging: CloudWatch, ECS Logs
+CI/CD: GitHub Actions, AWS CodePipeline,gitlab
 
-    Networking: VPC/Subnetting, NAT Gateways, Route Tables, Security Groups
+Monitoring & Logs: CloudWatch, Grafana, Prometheus (learning)
 
-💻 Programming & Scripting Languages:
+📂 Projects & Contributions
 
-    Python – scripting, automation, and backend services
+🔧 Cloud Dictionary App: Built with AWS Amplify, API Gateway, Lambda, DynamoDB — fully automated with Terraform & GitHub Actions
 
-    Bash – server automation and deployment scripts
+⚙️ Multi-node Cosmos setup: Isolated node configurations using Docker, systemd & custom scripts
 
-    YAML – CI/CD pipelines, Ansible playbooks, Kubernetes configs
+🧪 Terraform Modules: Built reusable modules for VPCs, ECS services, and EFS integrations
 
-    HCL – Terraform infrastructure definitions
+📫 Let's Connect
 
-    JavaScript – frontend/backend integrations in full-stack environments
+Twitter: @https://x.com/kelechi10565
 
-🌐 Blockchain & Web3:
+LinkedIn: https://www.linkedin.com/in/kelechi-sunday-b2a14525a
 
-    Familiar with decentralized infrastructure, appchains, and Web3 developer tools
+GitHub: https://github.com/kelvin005
 
-    Ambassador and contributor to next-gen blockchain networks
+"Automate everything. Monitor everything. Break nothing."
 
-📬 Let’s Connect:
-I’m open to collaborations in open source, Web3 infrastructure, and cloud DevOps projects.
-reach me @twitter: https://x.com/kelechi10565
-        
