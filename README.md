@@ -1,36 +1,50 @@
-👋 Hi there, I'm Kelvin
+# 👋 Hi there, I'm Kelvin
 
-🚀 DevOps | Cloud Infrastructure | Web3 Infra Enthusiast
+![Profile Views](https://komarev.com/ghpvc/?username=kelvin005&color=0e75b6&style=flat)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
-I'm a motivated DevOps and Cloud Infrastructure engineer with a strong focus on automation, scalability,availabilty  and blockchain-based infrastructure. I thrive at the intersection of Web2 and Web3, delivering reliable and secure systems using modern infrastructure-as-code tools.
+---
 
-🧠 Skills & Tools
+## 🚀 About Me
+I’m a **DevOps & Cloud Infrastructure Engineer** with **3.5 years of experience** designing, automating, and managing scalable, highly available systems.  
+I specialize in **AWS**, **Terraform**, and **CI/CD automation**, delivering secure and reliable infrastructure for production environments.
 
-Languages : Python, Bash 
+💡 *“Automate everything. Monitor everything. Break nothing.”*
 
-DevOps & Cloud Tools : Terraform, Ansible, Docker, GitHub Actions, AWS (EC2, ECS, ECR, S3, IAM, LAMBDA, etc), Linux
+---
 
-Blockchain / Web3Node management:  Appchains, EVM chains, Tanssi, Autonity, Cosmos SDK
+## 🧠 Skills & Tools
 
-CI/CD: GitHub Actions, AWS CodePipeline,gitlab
+**Languages:**  
+`Python` • `Bash`
 
-Monitoring & Logs: CloudWatch, Grafana, Prometheus (learning)
+**Cloud & DevOps Tools:**  
+`AWS (EC2, ECS, EKS, S3, IAM, Lambda, CloudFront)` • `Terraform` • `Ansible` • `Docker` • `Linux`
 
-📂 Projects & Contributions
+**CI/CD:**  
+`GitHub Actions` • `GitLab CI/CD` • `AWS CodePipeline`
 
-🔧 Cloud Dictionary App: Built with AWS Amplify, API Gateway, Lambda, DynamoDB — fully automated with Terraform & GitHub Actions
+**Monitoring & Logging:**  
+`CloudWatch` • `Grafana` • `Prometheus`
 
-⚙️ Multi-node Cosmos setup: Isolated node configurations using Docker, systemd & custom scripts
+---
 
-🧪 Terraform Modules: Built reusable modules for VPCs, ECS services, and EFS integrations
+## 📂 Projects
 
-📫 Let's Connect
+- **Cloud Dictionary App** – AWS Amplify + API Gateway + Lambda + DynamoDB; fully automated with Terraform & GitHub Actions  
+- **Scalable Multi-Node Setup** – Docker + systemd for containerized workload orchestration  
+- **Terraform Modules Library** – Reusable IaC modules for VPCs, ECS, and EFS integrations
+- **etc 
 
-Twitter: @https://x.com/kelechi10565
+---
 
-LinkedIn: https://www.linkedin.com/in/kelechi-sunday-b2a14525a
+## 📫 Connect With Me
 
-GitHub: https://github.com/kelvin005
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kelechi10565)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelechi-sunday-b2a14525a)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvin005)  
 
-"Automate everything. Monitor everything. Break nothing."
-
+---
