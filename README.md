@@ -25,7 +25,7 @@ I specialize in **AWS**, **Terraform**, and **CI/CD automation**, delivering sec
 `AWS (EC2, ECS, EKS, S3, IAM, Lambda, CloudFront)` • `Terraform` • `Ansible` • `Docker` • `Linux`
 
 **CI/CD:**  
-`GitHub Actions` • `GitLab CI/CD` • `AWS CodePipeline`
+`GitHub Actions` • `GitLab CI/CD` • `AWS CodePipeline` • `jenkins`
 
 **Monitoring & Logging:**  
 `CloudWatch` • `Grafana` • `Prometheus`
