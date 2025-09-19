@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-I’m a **DevOps & Cloud Infrastructure Engineer** with **3.5 years of experience** designing, automating, and managing scalable, highly available systems.  
+I’m a **DevOps & Cloud Infrastructure Engineer** with ** 1 years of experience** designing, automating, and managing scalable, highly available systems.  
 I specialize in **AWS**, **Terraform**, and **CI/CD automation**, delivering secure and reliable infrastructure for production environments.
 
 💡 *“Automate everything. Monitor everything. Break nothing.”*
