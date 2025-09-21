@@ -94,31 +94,7 @@ Programming:
 
 ---
 
-## 🎯 Current Focus & Learning
-
-```mermaid
-mindmap
-  root((Learning Path))
-    Advanced Kubernetes
-      Service Mesh Architecture
-      Advanced Networking
-      Performance Optimization
-    Infrastructure Security
-      Security Scanning Automation
-      Compliance as Code
-      Zero-Trust Architecture
-    Cost Engineering
-      FinOps Practices
-      Resource Optimization
-      Automated Cost Controls
-    Site Reliability Engineering
-      Error Budgets
-      Incident Response
-      Chaos Engineering
-```
-
----
-
+## 🎯 
 ## 🏆 What Makes My Code Different
 
 **🎯 Problem-Solving Focus**  
@@ -156,7 +132,7 @@ I'm always interested in discussing:
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kelechi10565)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelechi-sunday-b2a14525a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kelechi.k.sunday@gmail.com)
 
 ---
 
