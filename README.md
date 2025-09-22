@@ -23,7 +23,7 @@ I'm fascinated by the intersection of **cloud infrastructure**, **artificial int
 
 ---
 
-## 🛠️ Featured Projects
+##  Featured Projects
 
 ### 🤖 **AI-Powered Book Recommendations**
 #### 📚 [Book-Recommendation-Engine](https://github.com/kelvin005/Book-Recommendation-Engine)
@@ -55,8 +55,8 @@ An AI-powered pipeline that automatically extracts structured data from receipts
 
 ---
 
-### ⛅ **Auto-Scaling Web Infrastructure**
-#### 🌦️ [AWS-Weather-Dashboard](https://github.com/kelvin005/Aws-weather-dashboard)
+###  **Auto-Scaling Web Infrastructure**
+#### 🌦 [AWS-Weather-Dashboard](https://github.com/kelvin005/Aws-weather-dashboard)
 
 A production-ready web application with intelligent auto-scaling and fault tolerance built on AWS.
 
